@@ -1,5 +1,14 @@
 # 🚢 Titanic Survival Prediction
 
+## ⭐ Highlights
+- End-to-end Machine Learning pipeline
+- Data cleaning + preprocessing
+- Feature engineering (categorical encoding)
+- Random Forest classification model
+- Kaggle submission ready
+
+---
+
 ## 📌 Project Overview
 This is my first Machine Learning project.  
 The goal is to predict whether a passenger survived the Titanic disaster using passenger data.
@@ -42,8 +51,23 @@ Random Forest Classifier
 
 ---
 
-## 📤 Result
-Validation Accuracy: ~81%
+## 🎓 What I learned
+- Handling missing values
+- Encoding categorical variables
+- Train/test pipeline design
+- Model evaluation using accuracy score
+- Kaggle workflow (submission process)
+
+---
+
+## 📈 Results
+- Validation Accuracy: 81.56%
+- Model: Random Forest Classifier
+
+---
+
+## 🧠 Model Explanation
+The model predicts survival based on passenger features such as age, class, gender, and family size using a Random Forest classifier.
 
 ---
 
